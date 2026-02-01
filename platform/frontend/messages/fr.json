@@ -1,0 +1,82 @@
+{
+  "common": {
+    "appName": "Intelligence Podcast de Lenny",
+    "tagline": "269 épisodes de sagesse experte, interrogeables par IA",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "logout": "Se déconnecter",
+    "dashboard": "Tableau de bord",
+    "search": "Rechercher",
+    "chat": "Chat",
+    "agents": "Agents",
+    "templates": "Modèles",
+    "admin": "Administration",
+    "settings": "Paramètres",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "noResults": "Aucun résultat trouvé"
+  },
+  "auth": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "fullName": "Nom complet",
+    "loginTitle": "Bon retour",
+    "loginSubtitle": "Connectez-vous pour accéder à l'intelligence du podcast",
+    "registerTitle": "Créer un compte",
+    "registerSubtitle": "Commencez à explorer 269 épisodes de sagesse experte",
+    "noAccount": "Pas encore de compte ?",
+    "hasAccount": "Vous avez déjà un compte ?"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "transcripts": "Transcriptions",
+    "chunks": "Fragments indexés",
+    "embedded": "Fragments vectorisés",
+    "recentChats": "Conversations récentes",
+    "quickActions": "Actions rapides",
+    "searchTranscripts": "Rechercher des transcriptions",
+    "startChat": "Démarrer un chat",
+    "useTemplate": "Utiliser un modèle",
+    "browseAgents": "Parcourir les agents"
+  },
+  "search": {
+    "title": "Rechercher dans les Transcriptions",
+    "placeholder": "Cherchez des conseils sur le product-market fit, les prix, la croissance...",
+    "semantic": "Recherche Sémantique",
+    "keyword": "Recherche par Mots-clés",
+    "filterByGuest": "Filtrer par invité",
+    "similarity": "Similarité",
+    "source": "Source"
+  },
+  "chat": {
+    "title": "Chat avec les Experts du Podcast",
+    "newChat": "Nouveau Chat",
+    "placeholder": "Posez des questions sur la stratégie produit, la croissance, le leadership...",
+    "send": "Envoyer",
+    "sources": "Sources",
+    "selectAgent": "Sélectionner un agent"
+  },
+  "agents": {
+    "title": "Agents IA",
+    "subtitle": "Agents spécialisés pour différents cas d'usage",
+    "run": "Exécuter l'agent",
+    "create": "Créer un agent"
+  },
+  "templates": {
+    "title": "Modèles",
+    "subtitle": "Frameworks prêts à l'emploi des invités du podcast",
+    "execute": "Utiliser le modèle",
+    "fillVariables": "Remplissez les détails"
+  },
+  "admin": {
+    "title": "Panneau d'Administration",
+    "users": "Utilisateurs",
+    "tenants": "Locataires",
+    "ingest": "Ingérer les Transcriptions",
+    "ingesting": "Ingestion en cours...",
+    "ingestSuccess": "Ingestion terminée"
+  }
+}

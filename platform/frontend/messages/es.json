@@ -1,0 +1,82 @@
+{
+  "common": {
+    "appName": "Inteligencia del Podcast de Lenny",
+    "tagline": "269 episodios de sabiduría experta, buscables por IA",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión",
+    "dashboard": "Panel",
+    "search": "Buscar",
+    "chat": "Chat",
+    "agents": "Agentes",
+    "templates": "Plantillas",
+    "admin": "Administración",
+    "settings": "Configuración",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "noResults": "No se encontraron resultados"
+  },
+  "auth": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "fullName": "Nombre completo",
+    "loginTitle": "Bienvenido de nuevo",
+    "loginSubtitle": "Inicia sesión para acceder a la inteligencia del podcast",
+    "registerTitle": "Crear cuenta",
+    "registerSubtitle": "Comienza a explorar 269 episodios de sabiduría experta",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "transcripts": "Transcripciones",
+    "chunks": "Fragmentos indexados",
+    "embedded": "Fragmentos embebidos",
+    "recentChats": "Conversaciones recientes",
+    "quickActions": "Acciones rápidas",
+    "searchTranscripts": "Buscar transcripciones",
+    "startChat": "Iniciar un chat",
+    "useTemplate": "Usar una plantilla",
+    "browseAgents": "Ver agentes"
+  },
+  "search": {
+    "title": "Buscar Transcripciones",
+    "placeholder": "Busca consejos sobre product-market fit, precios, crecimiento...",
+    "semantic": "Búsqueda Semántica",
+    "keyword": "Búsqueda por Palabras",
+    "filterByGuest": "Filtrar por invitado",
+    "similarity": "Similitud",
+    "source": "Fuente"
+  },
+  "chat": {
+    "title": "Chat con Expertos del Podcast",
+    "newChat": "Nuevo Chat",
+    "placeholder": "Pregunta sobre estrategia de producto, crecimiento, liderazgo...",
+    "send": "Enviar",
+    "sources": "Fuentes",
+    "selectAgent": "Seleccionar un agente"
+  },
+  "agents": {
+    "title": "Agentes IA",
+    "subtitle": "Agentes especializados para diferentes casos de uso",
+    "run": "Ejecutar Agente",
+    "create": "Crear Agente"
+  },
+  "templates": {
+    "title": "Plantillas",
+    "subtitle": "Frameworks listos para usar de los invitados del podcast",
+    "execute": "Usar Plantilla",
+    "fillVariables": "Completa los detalles"
+  },
+  "admin": {
+    "title": "Panel de Administración",
+    "users": "Usuarios",
+    "tenants": "Inquilinos",
+    "ingest": "Ingerir Transcripciones",
+    "ingesting": "Ingiriendo...",
+    "ingestSuccess": "Ingesta completada"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "common": {
+    "appName": "Lenny's Podcast Intelligence",
+    "tagline": "269 episodes of expert wisdom, searchable by AI",
+    "login": "Log In",
+    "register": "Sign Up",
+    "logout": "Log Out",
+    "dashboard": "Dashboard",
+    "search": "Search",
+    "chat": "Chat",
+    "agents": "Agents",
+    "templates": "Templates",
+    "admin": "Admin",
+    "settings": "Settings",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "noResults": "No results found"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Log in to access podcast intelligence",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Start exploring 269 episodes of expert wisdom",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "transcripts": "Transcripts",
+    "chunks": "Indexed Chunks",
+    "embedded": "Embedded Chunks",
+    "recentChats": "Recent Conversations",
+    "quickActions": "Quick Actions",
+    "searchTranscripts": "Search Transcripts",
+    "startChat": "Start a Chat",
+    "useTemplate": "Use a Template",
+    "browseAgents": "Browse Agents"
+  },
+  "search": {
+    "title": "Search Transcripts",
+    "placeholder": "Search for advice on product-market fit, pricing, growth...",
+    "semantic": "Semantic Search",
+    "keyword": "Keyword Search",
+    "filterByGuest": "Filter by Guest",
+    "similarity": "Similarity",
+    "source": "Source"
+  },
+  "chat": {
+    "title": "Chat with Podcast Experts",
+    "newChat": "New Chat",
+    "placeholder": "Ask about product strategy, growth, leadership...",
+    "send": "Send",
+    "sources": "Sources",
+    "selectAgent": "Select an Agent"
+  },
+  "agents": {
+    "title": "AI Agents",
+    "subtitle": "Specialized agents for different use cases",
+    "run": "Run Agent",
+    "create": "Create Agent"
+  },
+  "templates": {
+    "title": "Templates",
+    "subtitle": "Ready-to-use frameworks from podcast guests",
+    "execute": "Use Template",
+    "fillVariables": "Fill in the details"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "users": "Users",
+    "tenants": "Tenants",
+    "ingest": "Ingest Transcripts",
+    "ingesting": "Ingesting...",
+    "ingestSuccess": "Ingestion complete"
+  }
+}
