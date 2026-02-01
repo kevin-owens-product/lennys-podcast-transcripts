@@ -183,3 +183,89 @@ An example of re-deriving from first principles when a foundational assumption c
 - "I try to sanity-check as much as I can of what I get"
 - The energy source must be renewable (curiosity, dissatisfaction with status quo—not anger or rivalry)
 - Career is 40 years at most—maximize what you're proud of, not what you endured
+
+---
+
+## 8. SaaS Founder Tempo and Shipping (Patrick Campbell)
+
+**Source**: `episodes/patrick-campbell/transcript.md`
+
+Patrick Campbell bootstrapped ProfitWell to a $200M+ exit. His lessons on tempo apply directly to building a profitable SaaS business.
+
+> "Real professionals ship. They ship at a pretty high frequency for whatever they're doing."
+
+### Tempo Framework > Org Design
+- "Your tempo framework is more important than your org design"
+- If a team seems smart but doesn't ship much → alignment problem, not talent problem
+- If leadership gets it but teams don't → not enough alignment on what good tempo looks like
+- Symptoms: always planning, rarely shipping; constant reshuffling; re-litigating decisions
+
+### Shipping Cadence for SaaS
+- Set a visible, recurring cadence (weekly deploys, biweekly releases, monthly launches)
+- Make shipping the default, not the exception
+- Track and celebrate ship rate, not plan rate
+- "If you've ever had a team that seems really smart, but they're always planning or they don't really ship a lot... you probably don't have enough alignment"
+
+### Bootstrapping Lessons
+- You can build a $200M+ business without venture capital
+- Constraints force creativity and discipline in pricing, retention, and product focus
+- When you can't outspend, you must out-think: pricing optimization, tactical retention, content-as-moat
+- "Inbound media is the pool" — ProfitWell built 8 niche podcasts/video series (Pricing Page Tear Down, Boxed Out, etc.)
+- Over time: "Oh, we have a pricing problem, we should go talk to these guys"
+
+---
+
+## 9. Building a Content Moat for SaaS (Patrick Campbell)
+
+**Source**: `episodes/patrick-campbell/transcript.md`
+
+### The Pool Strategy
+> "A lot of people are still treating content as just a gateway between the top and the bottom of the funnel."
+
+Patrick's approach at ProfitWell:
+- Built **8 different niche podcasts and video series** (not one general blog)
+- Each targeted a specific audience segment with specific value:
+  - "Pricing Page Tear Down" — collected data and reviewed pricing pages
+  - "Boxed Out" — retention for subscription e-commerce
+- Goal: build a pool of aware, educated audience
+- Conversion happens naturally over time: "Oh, we have a pricing problem, we should talk to those guys"
+
+### Why This Works for SaaS
+- Builds trust before the sales conversation
+- Positions you as the expert in your category (aligns with Dunford's teaching mindset)
+- Creates compounding returns (content library grows, SEO compounds)
+- Low CAC compared to paid acquisition
+- Audience = distribution channel for product launches
+
+### Application
+- Pick a narrow expertise niche your product serves
+- Produce content that makes the audience better at their job (not product pitches)
+- Be consistent — the pool fills slowly, then compounds
+- Use content to validate positioning: does this insight resonate with our ICP?
+
+---
+
+## 10. The SaaS Founder's Operating System
+
+Synthesized from Brian Chesky, Tobi Lutke, Patrick Campbell, Shreyas Doshi.
+
+### Daily Operating Principles
+1. **Be in the details** (Chesky) — Review product, customer feedback, and metrics yourself
+2. **Classify your work** (Doshi) — Is this an L, N, or O task? Spend best hours on L tasks.
+3. **Ship something** (Campbell) — Tempo > perfection. "Real professionals ship."
+4. **Re-derive decisions** (Lutke) — When facts change, rerun the decision function
+5. **Pre-mortem before launches** (Doshi) — What could kill this? What's the elephant?
+
+### Weekly Operating Cadence
+1. **Review the roadmap** (Chesky) — Every project on one roadmap, reviewed on a cadence
+2. **Talk to customers** (Torres) — Weekly, not quarterly
+3. **Check the "very disappointed" pulse** (Ellis) — Are we still solving a must-have problem?
+4. **Do one pricing/monetization thing per quarter** (Campbell) — Revenue per customer trending up?
+5. **Track core action completion, not vanity metrics** (Tavel) — Are users doing the thing that matters?
+
+### The Uncomfortable Questions to Ask Monthly
+- "Would 40%+ of users be very disappointed without us?" (Ellis)
+- "Is time really the constraint, or am I avoiding an L task?" (Doshi)
+- "What would this look like if 10 people built it vs. 1,000?" (Chesky)
+- "How would we solve this if nothing existed?" (Lutke)
+- "What's the elephant nobody's talking about?" (Doshi)

@@ -199,3 +199,112 @@ Airbnb's approach to eliminating organizational drift:
 - Metrics are subordinate to the calendar (roadmap drives, not metrics)
 - No team can go off in its own direction without visibility
 - CEO can identify individual bottlenecks because they see the "assembly" every week
+
+---
+
+## 9. The Sean Ellis PMF Test (Sean Ellis)
+
+**Source**: `episodes/sean-ellis/transcript.md`
+
+> "The question is: how would you feel if you could no longer use this product? Once you got a high enough percentage saying 'very disappointed,' most of those products did pretty well."
+
+### The Test
+Ask users: **"How would you feel if you could no longer use this product?"**
+- Very disappointed
+- Somewhat disappointed
+- Not disappointed / N/A
+
+**40%+ saying "very disappointed" = leading indicator of product-market fit**
+
+### Why It Works
+- A leading indicator—you don't need months of retention data
+- Can be run from day one of an MVP
+- Acts as a team alignment tool: "we don't aggressively grow until we hit this target"
+- Helps resolve the "is it ready?" debate with a shared benchmark
+- Retention cohorts are more accurate but take longer to read
+
+### The Real Power: Drilling Into the "Very Disappointed" Cohort
+1. **Who are they?** — Define your ICP from actual must-have users
+2. **What do they value?** — Find the core benefit driving their attachment
+3. **Why does that benefit matter?** — Get the emotional context (e.g., "I'm drowning in email")
+4. **What did they use before?** — Understand the real competitive alternatives
+
+### Ignore the "Somewhat Disappointed"
+> "They're telling you it's a nice to have. If you start tweaking based on their feedback, you may dilute it for your must-have users."
+
+### The Lookout Case Study: 7% → 40% in Two Weeks
+Without changing the product:
+1. Found the 7% who loved it cared about antivirus
+2. Repositioned the product around antivirus
+3. Streamlined onboarding so first experience = antivirus setup + "you're now protected"
+4. **"Set the right expectations and then speed to value"**
+
+### Post-40% Next Steps
+- Deeply understand why must-have users love it
+- Align product roadmap to double down on must-have value
+- Ensure onboarding delivers the core value experience
+- Target acquisition at people with the same need
+- Build engagement loops that reinforce the core benefit
+
+---
+
+## 10. The SaaS Sales Pitch (April Dunford)
+
+**Source**: `episodes/april-dunford/transcript.md`
+
+> "40-60% of B2B purchase processes end in no decision—not because the old thing was better, but because buyers couldn't figure out how to make a choice confidently."
+
+### Why Most SaaS Pitches Fail
+- Default pitch = glorified product walkthrough (click every dropdown menu)
+- Buyer sits there thinking: "Sounds like the other tool. Why should I switch?"
+- Result: customer indecision, not competitor loss
+- Buyers are overwhelmed, afraid of recommending the wrong tool to their boss
+
+### The Insight-Led Sales Pitch Structure
+
+**Part 1 — The Setup** (not about you, about the market):
+1. **Market insight**: Your point of view on what's changing
+   - Help Scout: "Customer service for digital businesses is a growth driver, not a cost center"
+   - This should resonate with your ICP. If it doesn't, disqualify the deal.
+2. **Alternatives landscape**: Pluses and minuses of each approach (not bashing—teaching)
+   - Shared inbox: easy but you'll outgrow it
+   - Help desk software: powerful but treats customers as tickets
+3. **Perfect world**: "Can we agree a good solution should be easy to use, scalable, AND built for amazing service?"
+
+**Part 2 — The Follow-Through** (about your differentiated value):
+4. **Introduction**: "We're X. We do Y specifically for Z."
+5. **Differentiated value** (NOT features): "Here's the value → here's how we deliver it" × 3
+6. **Proof**: Customer case studies, third-party validation
+7. **Objection handling**: Address silent objections (hard to adopt, expensive, security)
+8. **The ask**: Whatever the next step is in your sales process
+
+### The Teaching Mindset
+- Most B2B buyers have never purchased software like yours before
+- They want perspectives on the market and help weighing options
+- Research shows this is what buyers value most in a sales interaction
+- Yet most vendors just say: "Here's our stuff. You figure it out."
+
+### Discovery Within the Pitch
+- The setup section IS discovery—it's a conversation, not a presentation
+- By end of setup, either: aligned prospect → proceed, OR mutual disqualification
+- "It's part of the discovery that we do in a first substantive sales call"
+
+---
+
+## 11. Growth Anti-Patterns for SaaS (Elena Verna)
+
+**Source**: `episodes/elena-verna/transcript.md`
+
+Elena Verna (Miro, Amplitude, Dropbox, SurveyMonkey, Lovable) on tactics that never work:
+
+### 10 Things That Never Work
+1. **Hiring a growth team to find PMF** — "To figure out your product market fit and how to distribute it, it's not something you can outsource to somebody"
+2. **Rebranding/redesigning your marketing site for performance** — "Never ever once have I seen a rebrand produce good performance results"
+3. **Making everything an experiment** — "If every single initiative is an experiment, that's a paralyzing disease"
+4. **Optimizing when you should be innovating** — At Lovable (200M ARR): "95% innovating on growth, 5% optimization"
+
+### The PLG Reality Check
+- Product-led growth is not just adding a free tier
+- Self-serve must deliver value without human touch
+- The product IS the acquisition, conversion, and retention engine
+- "Only 30-40% of what I learned in 15-20 years transfers" to AI-era growth

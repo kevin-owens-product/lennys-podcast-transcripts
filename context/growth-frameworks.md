@@ -177,3 +177,111 @@ Focus on in order:
 - Is supply or demand the harder side to get? Focus there first.
 - What makes suppliers/buyers more successful on your platform than off it?
 - What do users lose if they leave? (Mounting losses)
+
+---
+
+## 8. SaaS Pricing Strategy (Patrick Campbell)
+
+**Source**: `episodes/patrick-campbell/transcript.md`
+
+Patrick Campbell founded ProfitWell (bootstrapped, sold for $200M+). His pricing and retention insights are drawn from data across thousands of SaaS companies.
+
+### The Three Growth Levers
+> "You have three growth levers: acquiring customers, monetizing them, and retaining them. You're probably doing nothing on pricing and monetization."
+
+Most companies:
+- Spend heavily on acquisition
+- Spend some on retention
+- Do **nothing** on pricing — "because you think it's this nebulous thing"
+
+### The #1 Pricing Decision: Your Value Metric
+
+**The value metric is HOW you charge** (per user, per 1,000 events, per GB, per transaction), not how much.
+
+> "Pound for pound, it's the pricing metric or the value metric... If you get everything else wrong but get that right, you tend to be okay."
+
+**Why it's so powerful:**
+- **Acquisition**: Disney pays Disney prices, startups pay startup prices (natural price discrimination)
+- **Churn drops 20-25%**: Users downgrade instead of canceling ("I'm using 8 seats, I'll go to 5" vs. "I'm canceling")
+- **Expansion revenue doubles**: "Congratulations, you have 100 videos now. I'm bumping you to the 100-video plan." No reselling required.
+
+### The Pricing Cadence
+1. **Form a pricing committee** (even 2 co-founders count)
+2. **Do ONE pricing change per quarter** — put a recurring calendar invite
+3. **Track revenue per customer** — should trend up over time
+4. **Raise prices annually** if NPS > 20
+5. Most companies go **3 years without touching pricing** — that's overdue
+
+### Where to Start
+- If there's internal politics: **start with a price increase** — it forces data collection, sales enablement, and messaging alignment
+- If starting fresh: **nail the value metric first** — everything else can be wrong and you'll be okay
+- Other levers: packaging, add-on strategy, discount strategy, price localization, freemium tiers
+
+---
+
+## 9. SaaS Retention: Strategic vs. Tactical (Patrick Campbell)
+
+**Source**: `episodes/patrick-campbell/transcript.md`
+
+> "Because you're so focused on strategic retention, you miss out on tactical retention — and it's typically 25-40% of your churn problem."
+
+### Two Types of Retention
+
+| Type | What It Is | Who Owns It | Effort to Fix |
+|------|-----------|-------------|---------------|
+| **Strategic** | ICP fit, time to value, right features, UX | Product team | Ongoing, hard |
+| **Tactical** | Payment failures, cancellation flows, offboarding | Finance/Ops | ~2 months, concrete |
+
+### Tactical Retention Quick Wins
+
+**Payment failure recovery** (involuntary churn):
+- Put a marketing-style funnel on failed payments
+- Automated retry sequences, card update prompts
+- This alone can recover a significant portion of churn
+
+**Cancellation flow** (from 2 million data points):
+1. **Ask "Why are you leaving?"** — Multiple choice (not free response: "You get one out of 100 great responses, and the 99 are not great")
+2. **Ask "What did you like about the product?"** — This triggers a nostalgia effect and stops the freight train to cancel
+3. Based on answers + engagement data + plan, **offer a salvage**: pause plan, downgrade, maintenance plan, or targeted discount
+
+> "You have about 18-30 seconds when someone hits that cancel button."
+
+### Strategic Retention Checklist
+- [ ] ICP is clearly defined (from Sean Ellis "very disappointed" cohort)
+- [ ] Time to value is optimized (first session delivers core value)
+- [ ] Onboarding sequences lead to the core action
+- [ ] Product roadmap doubles down on must-have value
+- [ ] Engagement loops reinforce the core benefit
+
+---
+
+## 10. SaaS Growth Sequencing
+
+Synthesized from Sean Ellis, Elena Verna, Casey Winters, Patrick Campbell, and Sarah Tavel.
+
+### The Order of Operations for SaaS
+
+```
+Phase 1: PMF        → Sean Ellis test ≥ 40% "very disappointed"
+Phase 2: Position   → April Dunford insight-led pitch
+Phase 3: Price      → Nail value metric (Patrick Campbell)
+Phase 4: Activate   → Speed to value, onboarding to core action
+Phase 5: Retain     → Fix tactical churn first (25-40% of problem)
+Phase 6: Grow       → Kindle strategies → fire strategies
+Phase 7: Expand     → Value metric drives natural expansion
+Phase 8: Optimize   → Experimentation at scale (only after PMF)
+```
+
+### Critical Sequencing Mistakes
+1. **Growing before PMF** — Pouring fuel on a fire that doesn't exist
+2. **Hiring a growth team before PMF** — "Not something you can outsource" (Elena Verna)
+3. **Optimizing before innovating** — "If every initiative is an experiment, that's a paralyzing disease" (Elena Verna)
+4. **Ignoring tactical retention** — 25-40% of churn is fixable in 2 months (Patrick Campbell)
+5. **Not touching pricing** — Most companies go 3 years without a change (Patrick Campbell)
+6. **Chasing vanity metrics** — "If users aren't completing the core action, MAU doesn't mean anything" (Sarah Tavel)
+
+### The Lovable Benchmark (Elena Verna)
+At 200M ARR with 100 people:
+- "Only 30-40% of what I learned in 15-20 years transfers here"
+- "95% innovating on growth, 5% optimization"
+- "Everybody and their mother is starting a vibe coding business — we need to be ahead of them. Being ahead is not optimization, it's reinvention."

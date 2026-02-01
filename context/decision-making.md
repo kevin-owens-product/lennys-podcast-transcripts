@@ -198,3 +198,87 @@ Tobi thinks of decisions like pure functions:
 - Pushing isn't about demoralization—it's about believing in people's potential
 - Create a growth mindset culture where "it's not good enough" means "I believe you can do better"
 - Andy Grove: The difference between competency and motivation—"Would they do better if their life depended on it?"
+
+---
+
+## 9. SaaS Pricing as a Strategic Decision (Patrick Campbell)
+
+**Source**: `episodes/patrick-campbell/transcript.md`
+
+> "You have three growth levers: acquiring customers, monetizing them, and retaining them. You're probably doing nothing on pricing and monetization."
+
+### Why Pricing Is a Strategy Problem, Not a Tactics Problem
+Most teams treat pricing as a one-time decision. Campbell argues it's an ongoing strategic lever:
+
+- **Revenue per customer** is the one KPI to track — it should go up every quarter
+- The value metric (how you charge) matters more than the price point (how much)
+- Pricing intersects product, sales, marketing, and finance — it reveals strategic misalignment
+
+### The Value Metric Decision Framework
+Choose a metric that:
+1. **Scales with customer value**: Bigger customers pay more naturally
+2. **Allows entry at low price**: Small customers can afford to start
+3. **Drives expansion without reselling**: Usage growth → revenue growth automatically
+4. **Reduces churn**: Customers downgrade instead of canceling
+
+### Strategic Pricing Decisions by Stage
+
+| Stage | Priority | Action |
+|-------|----------|--------|
+| Pre-PMF | Validate willingness to pay | Talk to "very disappointed" users about value |
+| Post-PMF | Nail the value metric | Find the metric that scales with customer success |
+| Growth | Optimize packaging | Tiers, add-ons, price localization |
+| Scale | Systematic pricing committee | One pricing change per quarter, annual price increases |
+
+### The Buyer Fear Factor (April Dunford + Patrick Campbell)
+- 40-60% of B2B purchases end in no decision (Dunford)
+- Buyers are more afraid of making the wrong choice than missing out
+- Pricing transparency and clear packaging reduce buyer anxiety
+- Help the buyer understand what they're getting and why it's worth it
+
+---
+
+## 10. The SaaS Strategy Stack
+
+Synthesized from Richard Rumelt, April Dunford, Sean Ellis, Patrick Campbell, Tobi Lutke.
+
+### Layer 1: Problem Selection (Lutke)
+- **First principles**: What problem would we solve if nothing existed?
+- **Path dependence check**: What compromises in current solutions are no longer necessary?
+- **Axiom test**: "If you want to do something better, you have to do it differently"
+
+### Layer 2: Market Validation (Ellis)
+- **PMF test**: 40%+ "very disappointed" users
+- **Core action**: What single action proves someone is a real user?
+- **ICP definition**: Who are the "very disappointed" users? What do they have in common?
+
+### Layer 3: Positioning (Dunford)
+- **Real alternatives**: What would customers do without you? (not just competitors)
+- **Differentiated value**: What can you do that alternatives can't?
+- **Market insight**: What's your teaching point about the market?
+- **Test**: Can you disqualify prospects who don't fit? (If you can't, positioning is too broad)
+
+### Layer 4: Monetization (Campbell)
+- **Value metric**: How you charge scales with customer value
+- **Revenue per customer**: Trending up quarter over quarter
+- **Pricing cadence**: One change per quarter, annual price increases
+
+### Layer 5: Growth Engine (Tavel, Winters, Verna)
+- **Core action → Accruing benefits → Mounting losses** (Tavel)
+- **Kindle → Fire**: Non-scalable validation → scalable loops (Winters)
+- **Innovate before optimizing**: "95% innovating, 5% optimizing" at growth stage (Verna)
+
+### Layer 6: Strategic Coherence (Rumelt, Chesky)
+- **Diagnosis**: What is the ONE core challenge right now?
+- **Guiding policy**: What approach addresses that challenge?
+- **Coherent actions**: Do all teams' actions reinforce each other?
+- **Single roadmap test** (Chesky): "1,000 people work but it looks like 10 did it"
+
+### The Meta-Principle: Execution Problems Are Strategy Problems (Doshi)
+If any layer is failing, check the layer above it:
+- Growth not working? → Check positioning and PMF
+- Positioning unclear? → Check problem selection
+- Revenue flat? → Check value metric and pricing cadence
+- Team spinning? → Check strategic coherence
+
+> "Most execution problems in a high-performing environment are actually strategy problems, interpersonal problems, or cultural problems." — Shreyas Doshi
