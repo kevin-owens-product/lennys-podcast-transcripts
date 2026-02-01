@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { useAuth } from "@/lib/auth";
-import { SUPPORTED_LOCALES } from "@/app/layout";
+import { SUPPORTED_LOCALES } from "@/lib/constants";
 
 const navItems = [
   { href: "/dashboard", labelKey: "dashboard" as const, icon: "◻" },

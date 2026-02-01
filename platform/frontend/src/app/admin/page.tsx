@@ -56,9 +56,9 @@ export default function AdminPage() {
     async function loadAdmin() {
       try {
         const [statsData, usersData, tenantsData] = await Promise.all([
-          adminApi.dashboard(),
-          adminApi.listUsers(),
-          adminApi.listTenants(),
+          adminApi.dashboard() as Promise<AdminDashboard>,
+          adminApi.listUsers() as Promise<AdminUser[]>,
+          adminApi.listTenants() as Promise<AdminTenant[]>,
         ]);
         setStats(statsData);
         setUsers(usersData);
@@ -76,12 +76,12 @@ export default function AdminPage() {
     setIngesting(true);
     setIngestionResult(null);
     try {
-      const result = await adminApi.triggerIngestion();
+      const result = await adminApi.triggerIngestion() as any;
       setIngestionResult(
         `Ingestion complete: ${result.ingested} new transcripts processed`
       );
       // Refresh stats
-      const statsData = await adminApi.dashboard();
+      const statsData = await adminApi.dashboard() as AdminDashboard;
       setStats(statsData);
     } catch (err) {
       console.error("Ingestion failed:", err);

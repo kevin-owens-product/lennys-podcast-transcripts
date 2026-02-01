@@ -16,12 +16,6 @@ const messagesMap: Record<string, typeof enMessages> = {
   fr: frMessages,
 };
 
-export const SUPPORTED_LOCALES = [
-  { code: "en", label: "English" },
-  { code: "es", label: "Español" },
-  { code: "fr", label: "Français" },
-];
-
 function getStoredLocale(): string {
   if (typeof window === "undefined") return "en";
   return localStorage.getItem("locale") || "en";

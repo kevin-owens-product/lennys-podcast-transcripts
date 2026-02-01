@@ -73,7 +73,7 @@ export default function TemplatesPage() {
     setExecuting(true);
     setResult(null);
     try {
-      const data = await templatesApi.execute(selectedTemplate.id, variables);
+      const data = await templatesApi.execute(selectedTemplate.id, variables) as TemplateResult;
       setResult(data);
     } catch (err) {
       console.error("Template execution failed:", err);

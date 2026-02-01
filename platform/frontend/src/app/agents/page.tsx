@@ -58,7 +58,7 @@ export default function AgentsPage() {
     setRunning(true);
     setResult(null);
     try {
-      const data = await agentsApi.run(selectedAgent.id, input);
+      const data = await agentsApi.run(selectedAgent.id, input) as AgentRunResult;
       setResult(data);
     } catch (err) {
       console.error("Agent run failed:", err);

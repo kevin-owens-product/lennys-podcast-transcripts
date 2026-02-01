@@ -4,7 +4,8 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { useAuth } from "@/lib/auth";
-import { auth as authApi, tenants as tenantsApi } from "@/lib/api";
+import { auth as authApi, tenantsApi } from "@/lib/api";
+import { storeAuth } from "@/lib/auth";
 
 export default function LoginPage() {
   const [email, setEmail] = useState("");
@@ -20,8 +21,10 @@ export default function LoginPage() {
     setLoading(true);
     try {
       const data: any = await authApi.login({ email, password });
+      // Store token so API client can use it for subsequent calls
+      storeAuth(data.access_token);
       // Get user's tenants
-      const userTenants: any = await tenantsApi.list(data.access_token);
+      const userTenants: any = await tenantsApi.list();
       const tenantId = userTenants.length > 0 ? userTenants[0].id : null;
       setAuth(data.user, data.access_token, tenantId);
       router.push("/dashboard");

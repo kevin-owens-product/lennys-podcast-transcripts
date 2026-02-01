@@ -34,10 +34,10 @@ export default function DashboardPage() {
       try {
         const [statsData, agentsData, templatesData, chatsData] =
           await Promise.all([
-            transcriptsApi.getStats(),
-            agentsApi.list(),
-            templatesApi.list(),
-            chatApi.listSessions(),
+            transcriptsApi.getStats() as Promise<TranscriptStats>,
+            agentsApi.list() as Promise<Agent[]>,
+            templatesApi.list() as Promise<Template[]>,
+            chatApi.listSessions() as Promise<ChatSession[]>,
           ]);
         setStats(statsData);
         setAgents(agentsData);

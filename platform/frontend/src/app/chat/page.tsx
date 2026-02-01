@@ -105,9 +105,11 @@ export default function ChatPage() {
       }
     }
 
+    const currentSessionId = sessionId as string;
+
     const userMessage: ChatMessage = {
       id: crypto.randomUUID(),
-      session_id: sessionId,
+      session_id: currentSessionId,
       role: "user",
       content: input,
       sources: [],
@@ -119,13 +121,13 @@ export default function ChatPage() {
     setSending(true);
 
     try {
-      const response = await chatApi.sendMessage(sessionId, input);
+      const response = await chatApi.sendMessage(currentSessionId, input);
       setMessages((prev) => [...prev, response]);
     } catch (err) {
       console.error("Failed to send message:", err);
       const errorMsg: ChatMessage = {
         id: crypto.randomUUID(),
-        session_id: sessionId,
+        session_id: currentSessionId,
         role: "assistant",
         content: "Sorry, something went wrong. Please try again.",
         sources: [],

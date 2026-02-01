@@ -11,14 +11,16 @@ export interface Transcript {
 }
 
 export interface SearchResult {
-  chunk_text: string;
+  text: string;
+  chunk_text?: string;
   guest: string;
-  title: string;
-  guest_slug: string;
+  episode_title: string;
+  title?: string;
+  guest_slug?: string;
   timestamp?: string;
   speaker?: string;
-  similarity: number;
-  transcript_id: string;
+  similarity?: number;
+  transcript_id?: string;
 }
 
 export interface Agent {
@@ -57,7 +59,7 @@ export interface ChatMessage {
   session_id: string;
   role: "user" | "assistant" | "system";
   content: string;
-  sources: Array<{ guest: string; title: string; similarity: number }>;
+  sources: any[];
   created_at: string;
 }
 

@@ -4,7 +4,8 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { useAuth } from "@/lib/auth";
-import { auth as authApi, tenants as tenantsApi } from "@/lib/api";
+import { auth as authApi, tenantsApi } from "@/lib/api";
+import { storeAuth } from "@/lib/auth";
 
 export default function RegisterPage() {
   const [email, setEmail] = useState("");
@@ -22,9 +23,11 @@ export default function RegisterPage() {
     setLoading(true);
     try {
       const data: any = await authApi.register({ email, password, full_name: fullName });
+      // Store token so API client can use it for subsequent calls
+      storeAuth(data.access_token);
       // Auto-create a tenant for the user
       const slug = (orgName || fullName).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-      const tenant: any = await tenantsApi.create(data.access_token, {
+      const tenant: any = await tenantsApi.create({
         name: orgName || `${fullName}'s Workspace`,
         slug: slug || `user-${Date.now()}`,
       });
