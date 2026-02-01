@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '⚠️ Reminder: Check if this content aligns with the product frameworks in context/ before writing. Apply the Chesky coherence test: Does this feel like it was made by 10 people or 1,000?'"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Bash(grep*)",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '💡 Tip: Use /find-advice for structured transcript searches with expert attribution.'"
+          }
+        ]
+      }
+    ]
+  }
+}
