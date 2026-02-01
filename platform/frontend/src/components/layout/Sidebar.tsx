@@ -2,22 +2,20 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useTranslations } from "next-intl";
 import { useAuth } from "@/lib/auth";
 import { SUPPORTED_LOCALES } from "@/lib/constants";
 
 const navItems = [
-  { href: "/dashboard", labelKey: "dashboard" as const, icon: "◻" },
-  { href: "/search", labelKey: "search" as const, icon: "⌕" },
-  { href: "/chat", labelKey: "chat" as const, icon: "💬" },
-  { href: "/agents", labelKey: "agents" as const, icon: "⚡" },
-  { href: "/templates", labelKey: "templates" as const, icon: "📋" },
+  { href: "/dashboard", label: "Dashboard", icon: "◻" },
+  { href: "/search", label: "Search", icon: "⌕" },
+  { href: "/chat", label: "Chat", icon: "💬" },
+  { href: "/agents", label: "Agents", icon: "⚡" },
+  { href: "/templates", label: "Templates", icon: "📋" },
 ];
 
 export default function Sidebar() {
   const pathname = usePathname();
   const { user, locale, logout, setLocale } = useAuth();
-  const t = useTranslations("common");
 
   return (
     <aside className="w-64 bg-white border-r border-gray-200 min-h-screen flex flex-col">
@@ -39,7 +37,7 @@ export default function Sidebar() {
             }`}
           >
             <span>{item.icon}</span>
-            {t(item.labelKey)}
+            {item.label}
           </Link>
         ))}
 
@@ -53,7 +51,7 @@ export default function Sidebar() {
             }`}
           >
             <span>⚙</span>
-            {t("admin")}
+            Admin
           </Link>
         )}
       </nav>
@@ -80,7 +78,7 @@ export default function Sidebar() {
             <p className="text-xs text-gray-500 truncate">{user?.email}</p>
           </div>
           <button onClick={logout} className="text-xs text-gray-400 hover:text-gray-600 shrink-0 ml-2">
-            {t("logout")}
+            Logout
           </button>
         </div>
       </div>
