@@ -1,5 +1,77 @@
 ---
-guest: "Dmitry Zlokazov"
+guest: Dmitry Zlokazov
+title: "How Revolut trains world-class PMs: The \u201CLocal CEO\u201D model, raw intellect & building\
+  \ wow products"
+youtube_url: https://www.youtube.com/watch?v=-kPpd21bFrE
+video_id: -kPpd21bFrE
+publish_date: 2025-05-15
+description: "Dmitry Zlokazov is the head of product at Revolut, the $45 billion fintech giant operating\
+  \ in over 50 countries, serving more than 50 million customers, and producing some of the world\u2019\
+  s top product leaders. Dmitry shares his hard-won lessons, contrarian org design principles, and day-to-day\
+  \ practices that power Revolut\u2019s relentless shipping velocity, culture of ownership, and unparalleled\
+  \ \u201Cwow\u201D product experience.\n\n*What you\u2019ll learn:*\n\u2022 Revolut\u2019s unique organizational\
+  \ approach, where \u201Cproduct owners\u201D manage cross-functional pods as \u201Clocal CEOs,\u201D\
+  \ with genuine end-to-end ownership and hiring/firing power\n\u2022 How a radical, ultra-flat structure\
+  \ enables more than 150 product owners to maintain founder-level quality and velocity across dozens\
+  \ of parallel launches\n\u2022 How Revolut maintains quality while shipping hundreds of features across\
+  \ over 50 countries\n\u2022 Why Revolut favors \u201Craw intellect and hunger\u201D over experience,\
+  \ and how internal transfers (including ex-engineers and ops managers) become the company\u2019s most\
+  \ successful product leaders\n\u2022 How Revolut\u2019s founders review every single UI shipped, and\
+  \ why this founder detail obsession scales rather than limits innovation\n\u2022 Their framework for\
+  \ launching new products\u2014from ideation, validation, and first user cohort to rapid \u201Calgorithmization\u201D\
+  \ and scaling across countries\n\u2022 The importance of treating products that are 99% done as closer\
+  \ to 0% done, vs. 100% done\n\n*Transcript:* https://www.lennysnewsletter.com/p/how-revolut-trains-world-class-product-managers\n\
+  \n*This entire episode is brought to you by:*\nStripe\u2014Helping companies of all sizes grow revenue:\
+  \ https://stripe.com/\n\n*Where to find Dmitry Zlokazov:*\n\u2022 X: https://x.com/Dzlokazov\n\u2022\
+  \ LinkedIn: https://www.linkedin.com/in/zlokazov/\n\n*Where to find Lenny:*\n\u2022 Newsletter: https://www.lennysnewsletter.com\n\
+  \u2022 X: https://twitter.com/lennysan\n\u2022 LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n*In this episode, we cover:*\n(00:00) Introduction to Dmitry and Revolut\n(03:41) Revolut\u2019s unique\
+  \ approach to product management\n(06:58) The role and responsibilities of product owners\n(09:28) Types\
+  \ of product owners at Revolut\n(15:50) Building \u201Cwow\u201D products\n(25:00) Hiring practices\n\
+  (31:33) Managing teams and projects\n(41:07) Revolut\u2019s diverse product offerings\n(44:40) Scaling\
+  \ new products successfully\n(52:10) Attracting top talent\n(58:43) Failure corner\n(01:02:49) Lightning\
+  \ round and final thoughts\n\n*Referenced:*\n\u2022 Revolut: https://www.revolut.com/\n\u2022 Intercom:\
+  \ https://www.intercom.com/\n\u2022 Palantir: https://www.palantir.com/\n\u2022 Which companies produce\
+  \ the best product managers: https://www.lennysnewsletter.com/p/which-companies-produce-the-best\n\u2022\
+  \ Which companies accelerate PM careers most: https://www.lennysnewsletter.com/p/which-companies-accelerate-your-pm\n\
+  \u2022 Deliver WOW to our customers: https://www.revolut.com/blog/post/deliver-wow/\n\u2022 Nik Storonsky\
+  \ on LinkedIn: https://www.linkedin.com/in/nstoronsky\n\u2022 Vlad Yatsenko on LinkedIn: https://www.linkedin.com/in/yatsenko/\n\
+  \u2022 How Palantir built the ultimate founder factory | Nabeel S. Qureshi (entrepreneur and writer,\
+  \ ex-Palantir): https://www.lennysnewsletter.com/p/inside-palantir-nabeel-qureshi\n\u2022 Gokul Rajaram\
+  \ on designing your product development process, when and how to hire your first PM, a playbook for\
+  \ hiring leaders, getting ahead in you career, how to get started angel investing, more: https://www.lennysnewsletter.com/p/gokul-rajaram-on-designing-your-product\n\
+  \u2022 Gokul Rajaram on X: https://x.com/gokulr\n\u2022 Brian Chesky\u2019s new playbook: https://www.lennysnewsletter.com/p/brian-cheskys-contrarian-approach\n\
+  \u2022 Schlep blindness: https://www.paulgraham.com/schlep.html\n\u2022 Revolut Launches RevPoints Loyalty\
+  \ Programme, Turning Daily Expenses into Exclusive Rewards: https://www.revolut.com/news/revolut_launches_revpoints_loyalty_programme_turning_daily_expenses_into_exclusive_rewards/\n\
+  \u2022 Gemini: https://gemini.google.com/\n\u2022 ChatGPT: https://chatgpt.com/\n\u2022 Figma: https://www.figma.com/\n\
+  \u2022 Oppenheimer: https://www.imdb.com/title/tt15398776/\n\u2022 Manus: https://manus.im/\n\u2022\
+  \ Eisenhower quote: https://quoteinvestigator.com/2017/11/18/planning/\n\u2022 Wealth protection: https://help.revolut.com/help/security-logging-in/wealth-protection/what-is-wealth-protection/\n\
+  \n*Recommended books:*\n\u2022 The Hard Thing About Hard Things: Building a Business when There Are\
+  \ No Easy Answers\u2015Straight Talk on the Challenges of Entrepreneurship: https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205\n\
+  \u2022 Build: An Unorthodox Guide to Making Things Worth Making\u2015Personal Journey from Product Designer\
+  \ to Mentor: https://www.amazon.com/Build-Unorthodox-Guide-Making-Things/dp/0063046067\n\n_Production\
+  \ and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 4202.0
+duration: '1:10:02'
+view_count: 24864
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- metrics
+- roadmap
+- mvp
+- conversion
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- competition
 ---
 
 # Dmitry Zlokazov

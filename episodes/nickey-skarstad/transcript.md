@@ -1,5 +1,50 @@
 ---
-guest: "Nickey Skarstad"
+guest: Nickey Skarstad
+title: Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing
+  product quality, second-order decisions, brainstorming, influence, and much more
+spotify_url: https://open.spotify.com/episode/6FKUgLvnlpyLOyMbykXm6u
+spotify_id: 6FKUgLvnlpyLOyMbykXm6u
+publish_date: 2022-07-18
+description: "Listen to this episode from Lenny's Podcast: Product | Career | Growth on Spotify. Nickey\
+  \ Skarstad is a Director of Product Management at Duolingo, where she is leading a stealth 0 \u2192\
+  \ 1 product. Prior to Duolingo, she was VP of Product at The Wing, Product Lead at Airbnb, where she\
+  \ led much of the Experiences product team, Product Lead at Shopify, and Director of Product Management\
+  \ at Etsy. \u2014 Find the full transcript here: \u2060https://www.lennyspodcast.com/the-rituals-of-great-teams-shishir-mehrotra-coda-youtube-microsoft/#transcript\u2060\
+  \ \u2014 Find the full transcript here: \u2060https://www.lennysnewsletter.com/p/nickey-skarstad-airbnb-etsy-shopify\
+  \ \u2014  Thank you to our wonderful sponsors for making this episode possible: \u2022 Mixpanel: https://mixpanel.com/startups\
+  \ \u2022 Dovetail: https://dovetailapp.com/lenny \u2022 Unit: https://unit.co/lenny \u2014 In this episode:\
+  \ [3:32] An overview of Nickey\u2019s career [7:39] What she learned from building product at Airbnb\
+  \ [8:42] How to maintain and operationalize product quality [9:44] Metrics that help you maintain quality\
+  \ [20:08] Which company has most informed her product development approach [21:57] How to structure\
+  \ your product org [24:47] Should you go GM vs. functional [27:18] How you set vision, translate that\
+  \ into goals, and then execute on it [32:30] Brainstorming advice [35:04] How to use OKRs effectively\
+  \ [37:57] How to get better at influence as a PM [41:23] How to know if a decision is a one-way or two-way\
+  \ door [42:29] Second-order decisions, and second-order thinking [46:35] Operationalizing principles\
+  \ [47:17] Getting your team on board with your strategy [49:39] Designing a product review meeting [54:08]\
+  \ Tips for working remotely as a PM [56:44] Lightning round \u2014 Where to find Nickey: \u2022 Newsletter:\
+  \ https://nickey.substack.com/ \u2022 TikTok: https://www.tiktok.com/@nickeyskarstad \u2022 LinkedIn:\
+  \ https://www.linkedin.com/in/nickeyskarstad/ \u2022 Twitter: https://twitter.com/NickeySkarstad \u2014\
+  \ Referenced: \u2022 Thinking in Systems by Donella H. Meadows \u2022 Anne Helen Petersen \u2022 Superhuman\
+  \ \u2022 Loom Get full access to Lenny's Newsletter at "
+duration_seconds: 3654.0
+duration: '1:00:54'
+channel: Lenny's Podcast
+keywords:
+- growth
+- onboarding
+- metrics
+- okrs
+- user research
+- analytics
+- pricing
+- revenue
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- mission
 ---
 
 # Nickey Skarstad

@@ -1,5 +1,76 @@
 ---
-guest: "Rachel Lockett"
+guest: Rachel Lockett
+title: A guide to difficult conversations, building high-trust teams, and designing a life you love
+youtube_url: https://www.youtube.com/watch?v=1GDVum5IarI
+video_id: 1GDVum5IarI
+publish_date: 2025-11-23
+description: "Rachel Lockett is a sought-after executive coach and former HR leader at Stripe and Pinterest\
+  \ who now works with CEOs, founders, and tech leaders on emotional intelligence, resilience, and leadership\
+  \ skills. In this episode, Rachel shares powerful frameworks for coaching reports, having difficult\
+  \ conversations, avoiding burnout, and strengthening co-founder relationships. She also demonstrates\
+  \ these techniques through a live coaching session with me.\n\n*We discuss:*\n1. When to coach and when\
+  \ to just tell people what to do\n2. The GROW technique for helping people figure out a solution for\
+  \ themselves\n3. Techniques for making difficult conversations less difficult\n4. Avoiding burnout and\
+  \ designing a more energizing career\n5. Building and sustaining a healthy co-founder relationship\n\
+  6. Creating a one-page plan that aligns your entire company\n7. Practical ways AI is transforming executive\
+  \ coaching and leadership development\n8. Why you should ask, \u201CWould I enthusiastically rehire\
+  \ this person?\u201D to clarify talent decisions\n\n*Brought to you by:*\nStripe\u2014Helping companies\
+  \ of all sizes grow revenue: https://stripe.com/\nVanta\u2014Automate compliance. Simplify security:\
+  \ https://vanta.com/lenny\nPersona\u2014A global leader in digital identity verification: https://withpersona.com/lenny\n\
+  \n*Transcript:* https://www.lennysnewsletter.com/p/a-guide-to-difficult-conversations\n\n*My biggest\
+  \ takeaways (for paid newsletter subscribers):*  https://www.lennysnewsletter.com/i/178940830/my-biggest-takeaways-from-this-conversation\n\
+  \n*Where to find Rachel Lockett:*\n\u2022 LinkedIn: https://www.linkedin.com/in/rhlockett/\n\u2022 Website:\
+  \ https://www.lockettcoaching.com\n\n*Where to find Lenny:*\n\u2022 Newsletter: https://www.lennysnewsletter.com\n\
+  \u2022 X: https://twitter.com/lennysan\n\u2022 LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n*In this episode, we cover:*\n(00:00) Introduction to Rachel Lockett\n(04:58) The human side of business\
+  \ building\n(09:00) Coaching vs. advising\n(13:09) Skill 1: Active listening\n(18:37) Skill 2: Powerful\
+  \ questions\n(24:49) Real-life coaching example\n(27:36) Live coaching example with Lenny\n(41:55) Addressing\
+  \ burnout in tech\n(51:03) Spending more time working toward your goals\n(53:09) Discovering her passion\
+  \ for executive coaching\n(57:36) It's your job to navigate your career\n(58:44) Why Rachel says to\
+  \ start small\n(01:00:49) Building strong co-founder relationships\n(01:06:50) Handling co-founder conflicts\n\
+  (01:12:35) Improving interpersonal skills with team members\n(01:20:28) Reframing difficult conversations\
+  \ as growth opportunities\n(01:31:47) The one-page plan for company alignment\n(01:36:50) Leveraging\
+  \ AI in coaching and personal development\n(01:42:04) Lightning round and final thoughts\n\n*Referenced:*\n\
+  \u2022 One-page plan template: https://www.lockettcoaching.com/#resources\n\u2022 Lockett Coaching Leadership\
+  \ Toolkit: https://www.dropbox.com/scl/fi/s74a9cn1ka1ebz6pglypf/Leadership-Toolkit_-Coaching-Rachel-Lockett.pdf?rlkey=yg2m9df2ziwy0fa6p0dt4gcfu&st=dgzvnf76&dl=0\n\
+  \u2022 Renew Your Co-Founder Vows\u2014and Other Tactics for Strengthening the Most Important Relationship\
+  \ in Your Startup: https://review.firstround.com/five-practices-to-strengthen-your-co-founder-relationship/\n\
+  \u2022 First Round Guide to Co-Founder Check-Ins: https://docs.google.com/document/d/1yUosmfMuE-8-sAwPrEPDcGqkJLVLWg5dC2_8lcXm7U4/edit?tab=t.0\n\
+  \u2022 Coinbase: https://www.coinbase.com\n\u2022 Management Time: Who\u2019s Got the Monkey?: https://hbr.org/1999/11/management-time-whos-got-the-monkey\n\
+  \u2022 Chuck Palahniuk\u2019s quote from Fight Club: https://www.goodreads.com/quotes/1338270-people-don-t-listen-they-just-wait-for-their-turn-to\n\
+  \u2022 Patrick Collison on X: https://x.com/patrickc\n\u2022 Stripe: https://stripe.com\n\u2022 Remind:\
+  \ https://www.remind.com\n\u2022 Zach Abrams on LinkedIn: https://www.linkedin.com/in/zacharyabrams\n\
+  \u2022 Brex: https://www.brex.com\n\u2022 Bridge: https://www.bridge.xyz\n\u2022 Superhuman\u2019s secret\
+  \ to success: Ignoring most customer feedback, manually onboarding every new user, obsessing over every\
+  \ detail, and positioning around a single attribute: speed | Rahul Vohra (CEO): https://www.lennysnewsletter.com/p/superhumans-secret-to-success-rahul-vohra\n\
+  \u2022 Zigging vs. zagging: How HubSpot built a $30B company | Dharmesh Shah (co-founder/CTO): https://www.lennysnewsletter.com/p/lessons-from-30-years-of-building\n\
+  \u2022 The Enneagram Institute: https://www.enneagraminstitute.com\n\u2022 How to build deeper, more\
+  \ robust relationships | Carole Robin (Stanford GSB professor, \u201CTouchy Feely\u201D): https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin\n\
+  \u2022 How have I been complicit in creating the conditions I say I don\u2019t want? | Jerry Colonna\
+  \ (CEO of Reboot, executive coach, former VC): https://www.lennysnewsletter.com/p/jerry-colonna\n...References\
+  \ continued at: https://www.lennysnewsletter.com/p/a-guide-to-difficult-conversations\n\n_Production\
+  \ and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 6319.0
+duration: '1:45:19'
+view_count: 23521
+channel: Lenny's Podcast
+keywords:
+- growth
+- retention
+- kpis
+- roadmap
+- conversion
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
+- market
+- persona
+- design
+- ux
 ---
 
 # Rachel Lockett

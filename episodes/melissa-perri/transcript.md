@@ -1,14 +1,35 @@
 ---
-guest: "Melissa Perri"
-title: "Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri"
-youtube_url: "https://www.youtube.com/watch?v=wbi9chsAHp4"
-video_id: "wbi9chsAHp4"
-description: |
-  Melissa Perri is the founder of Product Institute, author of Escaping the Build Trap, and host of the Product Thinking Podcast. She has worked with startups, Fortune 50 companies, and everything...
+guest: Melissa Perri
+title: Everything you’ve ever wanted to know about SAFe and the product owner role
+  | Melissa Perri
+youtube_url: https://www.youtube.com/watch?v=wbi9chsAHp4
+video_id: wbi9chsAHp4
+publish_date: 2024-11-10
+description: 'Melissa Perri is the founder of Product Institute, author of Escaping
+  the Build Trap, and host of the Product Thinking Podcast. She has worked with startups, Fortune
+  50 companies, and everything...
+
+  '
 duration_seconds: 5060.0
-duration: "1:24:20"
+duration: '1:24:20'
 view_count: 29280
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- churn
+- metrics
+- okrs
+- roadmap
+- user research
+- mvp
+- experimentation
+- analytics
+- hiring
+- culture
+- leadership
+- management
+- strategy
+- vision
 ---
 
 # Everything you’ve ever wanted to know about SAFe and the product owner role | Melissa Perri

@@ -1,5 +1,78 @@
 ---
-guest: "Aishwarya Naresh Reganti + Kiriti Badam"
+guest: Aishwarya Naresh Reganti + Kiriti Badam
+title: 'Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon'
+youtube_url: https://www.youtube.com/watch?v=z7T1pCxgvlA
+video_id: z7T1pCxgvlA
+publish_date: 2026-01-11
+description: "Aishwarya Naresh Reganti and Kiriti Badam have helped build and launch more than 50 enterprise\
+  \ AI products across companies like OpenAI, Google, Amazon, and Databricks. Based on these experiences,\
+  \ they\u2019ve developed a small set of best practices for building and scaling successful AI products.\
+  \ The goal of this conversation is to save you and your team a lot of pain and suffering.\n\n*We discuss:*\n\
+  1. Two key ways AI products differ from traditional software, and why that fundamentally changes how\
+  \ they should be built\n2. Common patterns and anti-patterns in companies that build strong AI products\
+  \ versus those that struggle\n3. A framework they developed from real-world experience to iteratively\
+  \ build AI products that create a flywheel of improvement\n4. Why obsessing about customer trust and\
+  \ reliability is an underrated driver of successful AI products\n5. Why evals aren\u2019t a cure-all,\
+  \ and the most common misconceptions people have about them\n6. The skills that matter most for builders\
+  \ in the AI era\n\n*Get 15% off Aishwarya and Kiriti\u2019s Maven course, Building Agentic AI Applications\
+  \ with a Problem-First Approach, using this link:* https://bit.ly/3V5XJFp\n\n*Brought to you by:*\n\
+  Merge\u2014The fastest way to ship 220+ integrations: https://merge.dev/lenny\nStrella\u2014The AI-powered\
+  \ customer research platform: https://strella.io/lenny\nBrex\u2014The banking solution for startups:\
+  \ https://www.brex.com/product/business-account?ref_code=bmk_dp_brand1H25_ln_new_fs\n\n*Episode transcript:*\
+  \ https://www.lennysnewsletter.com/p/what-openai-and-google-engineers-learned\n*Archive of all Lenny's\
+  \ Podcast transcripts:* https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=4jmgl11w&dl=0\n\
+  \n*My biggest takeaways (for paid newsletter subscribers):* https://www.lennysnewsletter.com/i/183007822/referenced\n\
+  \n*Where to find Aishwarya Naresh Reganti:*\n\u2022 LinkedIn: https://www.linkedin.com/in/areganti\n\
+  \u2022 GitHub: https://github.com/aishwaryanr/awesome-generative-ai-guide\n\u2022 X: https://x.com/aish_reganti\n\
+  \n*Where to find Kiriti Badam:*\n\u2022 LinkedIn: https://www.linkedin.com/in/sai-kiriti-badam\n\u2022\
+  \ X: https://x.com/kiritibadam\n\n*Where to find Lenny:*\n\u2022 Newsletter: https://www.lennysnewsletter.com\n\
+  \u2022 X: https://twitter.com/lennysan\n\u2022 LinkedIn: https://www.linkedin.com/in/lennyrachitsky/\n\
+  \n*In this episode, we cover:*\n(00:00) Introduction to Aishwarya and Kiriti\n(05:03) Challenges in\
+  \ AI product development\n(07:36) Key differences between AI and traditional software\n(13:19) Building\
+  \ AI products: start small and scale\n(15:23) The importance of human control in AI systems\n(22:38)\
+  \ Avoiding prompt injection and jailbreaking\n(25:18) Patterns for successful AI product development\n\
+  (33:20) The debate on evals and production monitoring\n(41:27) Codex team\u2019s approach to evals and\
+  \ customer feedback\n(45:41) Continuous calibration, continuous development (CC/CD) framework\n(58:07)\
+  \ Emerging patterns and calibration\n(01:01:24) Overhyped and under-hyped AI concepts\n(01:05:17) The\
+  \ future of AI\n(01:08:41) Skills and best practices for building AI products\n(01:14:04) Lightning\
+  \ round and final thoughts\n\n*Referenced:*\n\u2022 LevelUp Labs: https://levelup-labs.ai/\n\u2022 Why\
+  \ your AI product needs a different development lifecycle: https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different\n\
+  \u2022 Booking.com: https://www.booking.com\n\u2022 Research paper on agents in production (by Matei\
+  \ Zaharia\u2019s lab): https://arxiv.org/pdf/2512.04123\n\u2022 Matei Zaharia\u2019s research on Google\
+  \ Scholar: https://scholar.google.com/citations?user=I1EvjZsAAAAJ&hl=en\n\u2022 The coming AI security\
+  \ crisis (and what to do about it) | Sander Schulhoff: https://www.lennysnewsletter.com/p/the-coming-ai-security-crisis\n\
+  \u2022 Gajen Kandiah on LinkedIn: https://www.linkedin.com/in/gajenkandiah\n\u2022 Rackspace: https://www.rackspace.com\n\
+  \u2022 The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO\
+  \ of Every): https://www.lennysnewsletter.com/p/inside-every-dan-shipper\n\u2022 Semantic Diffusion:\
+  \ https://martinfowler.com/bliki/SemanticDiffusion.html\n\u2022 LMArena: https://lmarena.ai\n\u2022\
+  \ Artificial Analysis: https://artificialanalysis.ai/leaderboards/providers\n\u2022 Why humans are AI\u2019\
+  s biggest bottleneck (and what\u2019s coming in 2026) | Alexander Embiricos (OpenAI Codex Product Lead):\
+  \ https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck\n\u2022 Airline held liable\
+  \ for its chatbot giving passenger bad advice\u2014what this means for travellers: https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know\n\
+  \u2022 Demis Hassabis on LinkedIn: https://www.linkedin.com/in/demishassabis\n...References continued\
+  \ at: https://www.lennysnewsletter.com/p/what-openai-and-google-engineers-learned\n\n_Production and\
+  \ marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com._\n\
+  \nLenny may be an investor in the companies discussed."
+duration_seconds: 5182.0
+duration: '1:26:22'
+view_count: 23788
+channel: Lenny's Podcast
+keywords:
+- retention
+- onboarding
+- metrics
+- roadmap
+- user research
+- iteration
+- subscription
+- culture
+- strategy
+- vision
+- mission
+- market
+- design
+- ui
+- prototype
 ---
 
 # Aishwarya Naresh Reganti + Kiriti Badam

@@ -1,17 +1,28 @@
 ---
-guest: "EOY Review"
-title: "Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)"
-youtube_url: "https://www.youtube.com/watch?v=xzebbzIntFc"
-video_id: "xzebbzIntFc"
-description: |
-  Eric Ries is the creator of the Lean Startup methodology, author of the New York Times bestseller The Lean Startup, and founder of the Long-Term Stock Exchange (LTSE). He’s also a multi-time...
-duration_seconds: 8055.0
-duration: "2:14:15"
-view_count: 64647
-channel: "Lenny's Podcast"
+guest: Various (Year-End Review)
+title: Countdown of the top 10 episodes of the year
+youtube_url: https://www.youtube.com/watch?v=f4cskASqAsg
+video_id: f4cskASqAsg
+publish_date: 2022-12-29
+description: 'Lenny counts down the top 10 most downloaded episodes of 2022, featuring
+  clips from April Dunford, Crystal Widjaja, Julie Zhuo, Shishir Mehrotra, Kristen
+  Berman, Elena Verna, and more. A compilation of the best insights from the year.'
+duration_seconds: 3660.0
+duration: '1:01:00'
+view_count: 9357
+channel: Lenny's Podcast
+keywords:
+- best-of
+- year-end
+- compilation
+- top-episodes
+- product-management
+- growth
+- leadership
+- career
 ---
 
-# Reflections on a movement | Eric Ries (creator of the Lean Startup methodology)
+# Countdown of the top 10 episodes of the year
 
 ## Transcript
 

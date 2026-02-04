@@ -1,18 +1,40 @@
 ---
-guest: "Lulu Cheng Meservey"
-title: "Gain attention as an underdog with this framework | Lulu Cheng Meservey"
-youtube_url: "https://www.youtube.com/watch?v=qKXIBE7KRGo"
-video_id: "qKXIBE7KRGo"
-description: |
-  Lulu Cheng Meservey explains how to use the concentric circles framework to win the hearts and minds of your audience.
+guest: Lulu Cheng Meservey
+title: Gain attention as an underdog with this framework | Lulu Cheng Meservey
+youtube_url: https://www.youtube.com/watch?v=qKXIBE7KRGo
+video_id: qKXIBE7KRGo
+publish_date: 2023-03-27
+description: 'Lulu Cheng Meservey explains how to use the concentric circles framework
+  to win the hearts and minds of your audience.
+
   🎙️Find the full episode here: https://youtu.be/LTSEOeKV_Hs
-  
+
+
   —
+
   ...
+
+  '
 duration_seconds: 164.0
-duration: "2:44"
+duration: '2:44'
 view_count: 2507
-channel: "Lenny's Podcast"
+channel: Lenny's Podcast
+keywords:
+- growth
+- metrics
+- okrs
+- revenue
+- leadership
+- management
+- strategy
+- vision
+- mission
+- market
+- ui
+- startup
+- founder
+- investors
+- saas
 ---
 
 # Gain attention as an underdog with this framework | Lulu Cheng Meservey
